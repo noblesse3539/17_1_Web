@@ -1,0 +1,11 @@
+* {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#login_btn {
+    width : 50%;
+}
+#resist_btn {
+    width : 50%;
+}

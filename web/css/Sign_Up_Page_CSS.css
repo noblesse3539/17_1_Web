@@ -1,0 +1,29 @@
+*{
+}
+.terms-box{
+    margin: auto;
+    width : 50%;
+    padding-left: 20px;
+    padding-right: 20px;
+    border : 1px solid black;
+
+}
+.content{
+    height : 500px;
+    width : 100%;
+}
+.terms {
+    text-align: center;
+    height : 30%;
+}
+
+.form-box2 {
+
+    margin: auto;
+    text-align: center;
+}
+.form-box2-content {
+    margin : auto;
+    align-content: center;
+}
+
